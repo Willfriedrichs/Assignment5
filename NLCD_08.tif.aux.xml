@@ -1,0 +1,28 @@
+<PAMDataset>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>95.5</HistMax>
+        <BucketCount>96</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>2236188|0|0|0|0|0|0|0|0|0|0|876974|0|0|0|0|0|0|0|0|0|882090|622126|885313|272664|0|0|0|0|0|0|2284174|0|0|0|0|0|0|0|0|0|1026|377859|190482|0|0|0|0|0|0|0|0|7146261|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|3134831|0|0|0|0|0|0|0|0|0|80065|233304|0|0|0|0|0|0|0|87095|0|0|0|0|105780</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_COVARIANCES">537.8691134938769</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">95</MDI>
+      <MDI key="STATISTICS_MEAN">41.272590428463</MDI>
+      <MDI key="STATISTICS_MEDIAN">52.000000</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">23.192005378877</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
